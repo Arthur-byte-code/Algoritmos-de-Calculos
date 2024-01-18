@@ -1,0 +1,71 @@
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Professor\Desktop\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Nova pasta\SUPER ALGORITMO\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Professor\Desktop\Nova pasta\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Raul Diego\Desktop\algoritmos de cálculos\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
