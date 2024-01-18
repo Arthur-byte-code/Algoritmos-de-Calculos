@@ -604,7 +604,7 @@ void Exercicio21()
     Console.ReadKey();
     Menu();
 
-}//Altura de Homens e Mulheres
+}//Altura de Pessoas 
 
 void Exercicio22()
 {
